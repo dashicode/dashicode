@@ -22,7 +22,7 @@ Soy estudiante de Ingeniería en Ciencias de la Computación, interesado en el d
 
 ## 📫 Cómo contactarme
 
-- GitHub: [@dashl255](https://github.com/dashicode)  
+- GitHub: [@dashicode](https://github.com/dashicode)  
 - LinkedIn: [Diego Ariel Ortiz Martínez](https://www.linkedin.com/in/diegoortizmartinez)  
 - Correo: diegoortizmartinez4@gmail.com
 
